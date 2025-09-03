@@ -73,5 +73,5 @@ The chatbot is trained on a collection of documents stored in the `/data/` folde
 ### 🔧 1. Clone the repo
 
 ```bash
-git clone https://github.com/JalajBaghwala/rag-chatbot.git
+git clone https://github.com/harry28d/Rag_Chatbot_Harsh
 cd rag-chatbot
