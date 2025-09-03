@@ -1,0 +1,26 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore secrets
+.env
+
+# Ignore FAISS index (optional — if large)
+docs/faiss_index/
+docs/faiss_index/*
+
+# Ignore Jupyter notebooks (if not using)
+*.ipynb
+
+# Ignore Streamlit state
+.streamlit/
+
