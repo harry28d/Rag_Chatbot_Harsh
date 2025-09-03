@@ -1,6 +1,6 @@
 # 💬 RAG Chatbot — AI Assistant Powered by LangChain, FAISS, and Streamlit
 
-[![🚀 Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-Streamlit-brightgreen?style=for-the-badge)](https://rag-chatbot-jb.streamlit.app/)
+[![🚀 Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-Streamlit-brightgreen?style=for-the-badge)](https://ragchatbotharsh28d.streamlit.app/)
 
 ---
 
